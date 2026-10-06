@@ -750,7 +750,7 @@ const menuDefinition = [
 			},
 			{
 				name: 'Report Issues',
-				href: 'https://github.com/viliusle/miniPaint/issues'
+				href: 'https://suresh.app'
 			},
 			{
 				divider: true
